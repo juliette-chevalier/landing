@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Oswald&display=swap");
+
+@import url("components/container.css");
+@import url("components/potage.css");
+@import url("components/btn-blue.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	background-color: rgb(229, 223, 210);
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 0px;
+}
+
+h1{
+	font-family: 'Amatic SC', cursive;
+	font-weight: bold;
+	font-size: 50px;
+	color: white;
+}
+
+h2 {
+	font-family: 'Amatic SC', cursive;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgb(165, 28, 55);
+}
+
+
+a {
+	text-decoration: none;
+	color: rgb(165, 28, 55);
+}
+
+a:hover {
+	color: #339933
+}
+
+
+
